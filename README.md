@@ -1,5 +1,5 @@
 # Python-For-Network
 
-This first Python Task for the book Python for network engineers
+Tasks from book 'Python for network engineers' by Natash Samoylenko
 
-new update
+
